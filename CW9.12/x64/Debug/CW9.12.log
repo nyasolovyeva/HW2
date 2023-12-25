@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(288,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(317,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(317,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(323,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(323,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(330,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(330,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(338,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\CW9.12\CW9.12\Source.cpp(338,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  CW9.12.vcxproj -> C:\Users\nadya\source\repos\CW9.12\x64\Debug\CW9.12.exe
